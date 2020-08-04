@@ -1,0 +1,2 @@
+backup:
+	npm run backup

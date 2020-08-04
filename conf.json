@@ -1,5 +1,5 @@
 {
-    "dataFile": "/home/mdowning/Dropbox/Anime Society/Website/data.yml",
+    "dataFile": "/home/mdowning/Dropbox/Anime Society/Website/src/data.yml",
     "sourceFolder": "/home/mdowning/Anime/Playlists",
     "destinationFolder": "/home/mdowning/Anime Society Playlists",
     "flattenFolders": true,

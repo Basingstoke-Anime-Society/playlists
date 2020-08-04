@@ -8,7 +8,7 @@ const vlc = require('./lib/vlc.js');
 const m3u = require('./lib/m3u.js');
 
 const util = require('./lib/util.js');
-const conf = JSON.parse(fs.readFileSync('../conf.json', 'utf-8'));
+const conf = JSON.parse(fs.readFileSync(__dirname+'/../conf.json', 'utf-8'));
 
 
 function parseDate(str) {

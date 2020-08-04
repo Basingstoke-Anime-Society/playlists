@@ -4,6 +4,8 @@
   "description": "",
   "main": "basbackup.js",
   "scripts": {
+    "create": "src/create.js",
+    "backup": "src/backup.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
